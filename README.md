@@ -6,3 +6,5 @@ My name is **Piotr Mól**.
 I am a **junior frontend developer**, who loves to do passionate projects on the side and just put them here.
 
 For now React is the main thing in my toolbelt, though i want to expand it with other technologies like Vue, Svelte or Astro etc.
+
+[Personal website](https://www.devsor.us/)
