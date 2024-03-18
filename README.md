@@ -7,6 +7,6 @@
 My name is **Piotr Mól**.  
 I am a **junior frontend developer**, who loves to do passionate projects on the side and just put them here.
 
-For now React is the main thing in my toolbelt, though i want to expand it with other technologies like Vue, Svelte or Astro etc.
+I have built apps with React, NextJS, Astro, MUI, Tailwind, Prisma, Typescript, Express, Hono, PrismaORM, Planetscale, MongoDB, Clerk, NextAuth... and bunch of other stuff that I don't remember 😵‍💫
 
-[Personal website](https://www.devsor.us/)
+### [Personal website](https://www.devsor.us/)
